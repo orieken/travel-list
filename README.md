@@ -1,4 +1,5 @@
 # 🍃 Gatsby Leaflet Starter
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f82593c8-bff0-4197-a3fe-424afe219fa5/deploy-status)](https://app.netlify.com/sites/unruffled-varahamihira-a9f2f1/deploys)
 
 Jumpstart your next Gatsby mapping project with Leaflet!
 

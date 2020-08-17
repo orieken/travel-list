@@ -1,2 +1,3 @@
+NODE_VERSION = "12.18.3"
 [[plugins]]
   package = "netlify-plugin-gatsby-cache"
