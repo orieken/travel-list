@@ -1,6 +1,8 @@
 /* eslint-disable */
 
 module.exports = {
+  ecmaVersion: 7,
+  sourceType: 'module',
   env: {
     browser: true,
     jest: true,
@@ -16,7 +18,6 @@ module.exports = {
   },
 
   parser: 'babel-eslint',
-
   parserOptions: {
     ecmaVersion: 9,
     ecmaFeatures: {

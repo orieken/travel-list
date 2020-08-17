@@ -34,5 +34,13 @@ module.exports = {
         icon: 'src/assets/images/react-leaflet-icon.png',
       },
     },
+    {
+      resolve: 'gatsby-source-graphql',
+      options: {
+        typeName: 'GCMS',
+        fieldName: 'gcms',
+        url: 'https://api-us-east-1.graphcms.com/v2/ckd99ck19erv201wf2oop2snf/master',
+      }
+    },
   ],
 };
